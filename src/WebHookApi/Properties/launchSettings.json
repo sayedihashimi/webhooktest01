@@ -11,6 +11,7 @@
   "profiles": {
     "WebHookApi": {
       "commandName": "Project",
+      "createTunnel": true,
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
